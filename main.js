@@ -1,1 +1,2 @@
-console.log("main");
+const word = "main";
+console.log(word);
